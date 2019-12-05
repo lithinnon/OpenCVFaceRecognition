@@ -1,1 +1,1 @@
-# Make a Face Recognition with OpenCV
+# Face Recognition with OpenCV
