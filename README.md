@@ -2,6 +2,6 @@
 In this project we'll make a Face Recognition using Python
 
 Libraries:
-> Numpy
-> OpenCV & OpenCV Contrib
-> Pillow
+1. Numpy
+2. OpenCV & OpenCV Contrib
+3. Pillow
