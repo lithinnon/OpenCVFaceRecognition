@@ -55,10 +55,10 @@ def DrawBox(img, classifier, scaleFactor, minNeighbors, color, clf):
             # If confidence less than or equal 42 (True) Insert text this person is known: (False) Inser text this person is unknown
             if con <= 42:
                 # Put text to the video
-                cv2.putText(img, "Pawat", (x, y-4), cv2.FONT_HERSHEY_SIMPLEX, 0.8, color, 2)
+                cv2.putText(img, "YOURNAME", (x, y-4), cv2.FONT_HERSHEY_SIMPLEX, 0.8, color, 2)
 
                 # Define variable for debug mode
-                # faceResults = "Pawat"
+                # faceResults = "YOURNAME"
             else:
                 # Put text to the video
                 cv2.putText(img, "Unknown", (x, y-4), cv2.FONT_HERSHEY_SIMPLEX, 0.8, color, 2)
