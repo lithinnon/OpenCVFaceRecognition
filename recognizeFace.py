@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Source code from [Kong Ruksiam] modify [Pawat Saengduan]
 
 # OpenCV Face Recognition
