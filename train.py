@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # OpenCV Face Recognition
 # Made by Pawat Saengduan
 #
